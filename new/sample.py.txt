@@ -1,0 +1,5 @@
+age=int(input("enter age"))
+if age>18:
+    print("go to college")
+else :
+print("stay at home")
